@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Shu Z Lee
-
 Hello :wave: 
 
 Welcome to my website. Currently under construction.
